@@ -15,7 +15,7 @@
 ## Clone Directly
 
 ```bash
-git clone https://github.com/TonySac/E3NG-Mainsail-Theme.git ~/klipper_config/.theme
+git clone https://github.com/TonySac/E3NG-Mainsail-Theme.git ~/printer_data/config/.theme
 ```
 
 ## Screenshots
